@@ -18,4 +18,4 @@ dotnet run
 
 ## Autor
 
-Yokcel Ibarra
+Yokcel Alejandro Ibarra Gaviria
