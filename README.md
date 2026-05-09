@@ -1,4 +1,4 @@
-@"
+
 # Listas Ligadas
 
 Proyecto de consola en C# para el Taller #5 sobre listas ligadas.
