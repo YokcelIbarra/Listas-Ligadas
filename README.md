@@ -1,4 +1,3 @@
-
 # Listas Ligadas
 
 Proyecto de consola en C# para el Taller #5 sobre listas ligadas.
@@ -18,9 +17,4 @@ dotnet run
 
 Autor
 
-Yokcel Ibarra
-"@ | Out-File -Encoding UTF8 README.md
-
-git add README.md
-git commit -m "Agrega README del proyecto"
-git push
+Yokcel Alejandro Ibarra Gaviria
